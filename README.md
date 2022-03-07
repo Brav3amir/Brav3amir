@@ -2,7 +2,7 @@
 
 I am Amir, 17 years old and currently living in Iran
 I have been working in Discord for almost 1.5 years
-And 8 months when I started discord bot developing & public server config
+And 9 months when I started discord bot developing & public server config
 
 <img align="right" alt="Photo" height="260px" src="./assets/amir.png" />
 
