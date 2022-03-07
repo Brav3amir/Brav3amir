@@ -1,4 +1,4 @@
-### Hi, I'm Amir 👋
+### Hi, I'm Amir <img src="assets/Hand.gif" width="21px">
 
 I am Amir, 17 years old and currently living in Iran
 I have been working in Discord for almost 1.5 years
