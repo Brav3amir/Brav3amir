@@ -4,7 +4,7 @@ I am Amir, 17 years old and currently living in Iran
 I have been working in Discord for almost 1.5 years
 And 9 months when I started discord bot developing & public server config
 
-<img align="right" alt="Photo" height="260px" src="./assets/amir.png" />
+<img align="right" alt="Photo" height="80px" src="https://discord.c99.nl/widget/theme-1/803203173581455411.png" />
 
 - 🔭 I’m currently working on discord development projects
 - 🌱 I'm learning [python](https://www.python.org/) now
