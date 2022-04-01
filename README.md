@@ -22,5 +22,5 @@ And 9 months when I started discord bot developing & public server config
 <a href="https://github.com/Brav3amir">
 <img src="https://camo.githubusercontent.com/3dce23fc6eba13d5526172ca2effcb33ae5a01a9cd892d4be133413a31c9b95c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3137313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d353435396137" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&amp;logo=discord&amp;logoColor=5459a7" style="max-width: 100%;"></a>
 <br/>
-<a href="https://falhafez.glitch.me/">
+<a href="https://falhafez.xyz/">
 <img src="https://cdn.discordapp.com/attachments/947793656591556618/948312456810336276/PicsArt_03-01-11.44.59.png" alt="Fal Hafez" height="30px"></a>
