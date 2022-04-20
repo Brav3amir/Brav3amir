@@ -1,6 +1,8 @@
 <div align="center">
 <h2>Hi, I'm Amir
 <img src="assets/Hand.gif" width="21px">
+  
+  @@ -89,6 +90,30 @@
 
 <img align="right" alt="Photo" height="80px" src="https://discord.c99.nl/widget/theme-1/803203173581455411.png" />
 
