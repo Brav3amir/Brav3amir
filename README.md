@@ -2,8 +2,6 @@
 <h2>Hi, I'm Amir
 <img src="assets/Hand.gif" width="21px">
 
-<img align="right" alt="Photo" height="80px" src="https://discord.c99.nl/widget/theme-1/803203173581455411.png" />
-
 - 🔭 I’m currently working on discord development projects
 - 🌱 I'm learning [python](https://www.python.org/) now
 - 📫 How to reach me: Brav3amir@gmail.com
@@ -22,3 +20,8 @@
 <br/>
 <a href="https://falhafez.xyz/">
 <img src="https://cdn.discordapp.com/attachments/947793656591556618/948312456810336276/PicsArt_03-01-11.44.59.png" alt="Fal Hafez" height="30px"></a>
+<br/>
+  
+<br/>
+<img align="center" alt="Photo" height="80px" src="https://discord.c99.nl/widget/theme-1/803203173581455411.png" />
+
