@@ -5,8 +5,8 @@
     <h4 align="center"><samp> Node.js Developer - Discord Configure </samp></h4>
     <h4 align="center"><samp> 🌪️ I’m currently working on discord development projects 🌪️</samp></h4>
     <h4 align="center"><samp> 🔥 Contact Me : info@brav3amir.xyz 🔥 </samp></h4>
-    <h4 align="center"><samp> Founder of Fal Hafez bot </samp></h4>
-    <a href="Link Here" style="color: Color Here"><b>Link Name</b></a>
+    <h4 align="center"><samp> 🩸 Founder of Fal Hafez bot 🩸 </samp></h4>
+    <a href="https://discord.gg/ErzJGBBm48" style="color: green"><b><samp> 💧 Discord 💧 </samp></b></a>
 </div>
 
   
