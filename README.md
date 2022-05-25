@@ -6,7 +6,7 @@
     <h4 align="center"><samp> 🌪️ I’m currently working on discord development projects 🌪️</samp></h4>
     <h4 align="center"><samp> 🔥 Contact Me : info@brav3amir.xyz 🔥 </samp></h4>
     <h4 align="center"><samp> Founder of Fal Hafez bot </samp></h4>
-    <h4 align="center"><samp> [Discord](https://discord.gg/ErzJGBBm48) </samp></h4>
+    <a href="Link Here" style="color: Color Here"><b>Link Name</b></a>
 </div>
 
   
