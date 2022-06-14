@@ -48,4 +48,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Brav3amir&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=171717&title_color=5459a7&icon_color=5459a7&text_color=ffffff&count_private=true"  alt=""/>
 </div>
  
-<img src="assest/money-bag_1f4b0.png">
+<img src="assest/money-bag_1f4b0.png" alt="" height="30px">
